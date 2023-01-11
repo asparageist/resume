@@ -12,8 +12,7 @@
 }
 
 .section {
-  text-align: center;
+  color: blue;
   font-style: bold;
-  font-style: oblique;
   font-size: large;
 }
